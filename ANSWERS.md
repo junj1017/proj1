@@ -14,7 +14,11 @@ I redirected to pokemon.trainer. It does not need a path because the page redire
 
 # Question 5: Explain how putting this line "flash[:error] = @pokemon.errors.full_messages.to_sentence" shows error messages on your form.
 
-
+It errors when a specific pokemon already exists, so it uses that pokemon to flash the error.
 # Give us feedback on the project and decal below!
+Project was really fun! Decal is going well, but I hope it's more interactive.
+
+https://github.com/junj1017/proj1
+
 
 # Extra credit: Link your Heroku deployed app
